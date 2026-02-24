@@ -3,7 +3,7 @@ require("pk_pills")
 AddCSLuaFile()
 
 if SERVER then
-    resource.AddWorkshop("106427033")
+   
     include("ppp_include/drivemodes.lua")
 end
 
